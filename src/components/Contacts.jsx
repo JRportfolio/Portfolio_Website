@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react'
 
 const SOCIALS = [
-  { label: 'GitHub',   href: '#' },
+  { label: 'GitHub',   href: 'https://github.com/JRYportfolio' },
   { label: 'LinkedIn', href: 'https://www.linkedin.com/in/johann-ross-yap-5a4988407/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNJ6OVdh%2BRp%2BqqNNMjedpVQ%3D%3D' },
 ]
 
