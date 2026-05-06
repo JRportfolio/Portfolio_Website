@@ -58,7 +58,7 @@ export default function App() {
       <Contacts />
 
       <footer className="px-12 py-8 flex justify-between items-center border-t border-teal-dim/30 text-[.65rem] tracking-[.15em] uppercase text-text-dim">
-        <span>© 2026 Your Name</span>
+        <span>© 2026 Johann Ross Yap</span>
         <span>Designed &amp; built with intention</span>
       </footer>
     </>
