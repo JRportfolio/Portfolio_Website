@@ -57,9 +57,9 @@ export default function App() {
       <Projects />
       <Contacts />
 
-      <footer className="px-12 py-8 flex justify-between items-center border-t border-teal-dim/30 text-[.65rem] tracking-[.15em] uppercase text-text-dim">
+      <footer className="px-6 py-8 md:px-12 flex flex-col md:flex-row justify-between items-center gap-4 md:gap-0 border-t border-teal-dim/30 text-[.6rem] md:text-[.65rem] tracking-[.15em] uppercase text-text-dim">
         <span>© 2026 Johann Ross Yap</span>
-        <span>Designed &amp; built with intention</span>
+        <span className="text-center md:text-right">Designed &amp; built with intention</span>
       </footer>
     </>
   )
