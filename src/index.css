@@ -151,9 +151,9 @@ body {
 
 /* ── SKILL TAG ── */
 .skill-tag {
-  padding: .3rem .9rem;
-  font-size: .7rem;
-  letter-spacing: .12em;
+  padding: .2rem .55rem;
+  font-size: .68rem;
+  letter-spacing: .08em;
   text-transform: uppercase;
   border: 1px solid var(--teal-dim);
   color: var(--teal-light);

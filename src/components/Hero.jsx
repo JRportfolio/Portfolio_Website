@@ -197,7 +197,7 @@ export default function Hero() {
         </h1>
         <p className="mt-6 font-light italic text-text-dim tracking-[.08em]"
            style={{ fontSize: 'clamp(.85rem,1.5vw,1.05rem)', animation: 'fadeLeft 1.4s .5s ease both' }}>
-          Portfolio Website | Student | Iloilo City, Philippines
+          Portfolio Website
         </p>
         <a href="#work" className="hero-cta mt-11 inline-flex"
            style={{ animation: 'fadeRight 1.4s .65s ease both' }}>

@@ -26,7 +26,7 @@ export default function Projects() {
 
         {/* Header */}
         <div className="mb-16 reveal-left">
-          <p className="section-label">Selected Work</p>
+          <p className="section-label">Project Highlights</p>
           <h2 className="section-title">Things I've<br/>built &amp; shipped.</h2>
         </div>
 
