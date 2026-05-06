@@ -47,8 +47,8 @@ export default function About() {
         </div>
         <p className="reveal text-[.95rem] leading-[1.85] text-text-dim font-light mt-6">
           I'm a <strong className="text-text-main font-medium">3rd year BS Computer Science student</strong> at the University of the Philippines Visayas (Miagao). 
-          I am currently looking for internships that will help me gain practical experience in
-          building clean, reliable, and beautifully crafted web experiences and to hone my skills. 
+          I am currently looking for internships that will help me gain practical experience and hone my skills in
+          building clean, reliable, and beautifully crafted web experiences. 
           I aspire to be a full-stack developer who can seamlessly bridge the gap between design and development.
         </p>
       </div>
